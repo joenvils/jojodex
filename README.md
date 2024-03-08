@@ -1,0 +1,2 @@
+# jojodex
+only testnet
